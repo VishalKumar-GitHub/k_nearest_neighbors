@@ -116,7 +116,7 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 ## Author
 - Vishal Kumar
-- GitHub: VishalKumar-GitHub
+- GitHub: [VishalKumar-GitHub](https://github.com/VishalKumar-GitHub)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE.md file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](https://github.com/VishalKumar-GitHub/k_nearest_neighbors/blob/main/LICENSE) file for details.
